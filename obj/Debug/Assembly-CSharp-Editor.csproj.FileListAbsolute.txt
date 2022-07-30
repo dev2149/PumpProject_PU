@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\PumpAssembly_2\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PumpAssembly_2\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache

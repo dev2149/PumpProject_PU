@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00. Scenes/MianTitle.unity
+    guid: 43b290a3556f7de4cb124ec1d091a0a3
+  - enabled: 1
+    path: Assets/00. Scenes/Decomposition.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/00. Scenes/Tutorial.unity
+    guid: cbfde75b4d210944fb9c0041c005d3ae
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 61d5a04ee942fef4a81724345598741f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eecb5ff3927573c4b8edcbadd281d511, type: 2}

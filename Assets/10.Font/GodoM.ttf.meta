@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5fed575408095a64086339698ca99229
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Godo M
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 378ca2383cfc7cc4f893b7e5c203268f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
